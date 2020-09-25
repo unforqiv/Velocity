@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animations/Guns.meta
+    - Assets/Animations/Guns/Machine Gun 1.controller
+    - Assets/Animations/Guns/Machine Gun 1.controller.meta
+    - Assets/Animations/Guns/Machine Gun 2.controller
+    - Assets/Animations/Guns/Machine Gun 2.controller.meta
+    - Assets/Animations/Guns/Machine Gun 3.controller
+    - Assets/Animations/Guns/Machine Gun 3.controller.meta
+    - Assets/Animations/Guns/Machine Gun Reload.anim
+    - Assets/Animations/Guns/Machine Gun Reload.anim.meta
+    - Assets/Animations/Guns/Machine Gun.controller
+    - Assets/Animations/Guns/Machine Gun.controller.meta
+    - Assets/Models/Armless.blend
+    - Assets/Models/Armless.blend.meta
+    - Assets/Models/Arms.blend
+    - Assets/Models/Arms.blend.meta
+    - Assets/Models/Design.controller
+    - Assets/Models/Design.controller.meta
+    - Assets/Models/Machine Gun Reload.blend
+    - Assets/Models/Machine Gun Reload.blend.meta
+    - Assets/Models/Machine Gun Reload.controller
+    - Assets/Models/Machine Gun Reload.controller.meta
+    - Assets/Models/Machine Gun.blend
+    - Assets/Models/Machine Gun.blend.meta
+    - Assets/Models/Machine Gun.controller
+    - Assets/Models/Machine Gun.controller.meta
+    - Assets/Models/Player Rig.blend
+    - Assets/Models/Player Rig.blend.meta
+    - Assets/Models/Pump.controller
+    - Assets/Models/Pump.controller.meta
+    - Assets/Models/Reload.controller
+    - Assets/Models/Reload.controller.meta
+    - Assets/Models/shotgun pump 1.blend
+    - Assets/Models/shotgun pump 1.blend.meta
+    - Assets/Models/shotgun pump.blend
+    - Assets/Models/shotgun pump.blend.meta
+    - Assets/Models/shotgun reload.blend
+    - Assets/Models/shotgun reload.blend.meta
+    - Assets/Models/shotgun.blend
+    - Assets/Models/shotgun.blend.meta
+    - Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+    - Assets/Prefabs/Guns/Machine Gun.prefab
+    - Assets/Prefabs/Guns/Shotgun.prefab
+    - Assets/Resources/Player.prefab
+    - Assets/ScriptableObjects/Guns/Machine Gun.asset
+    - Assets/Scripts/ScriptableObjectGens/Gun.cs
+    - Assets/Scripts/Weapon.cs
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
