@@ -1,1 +1,1 @@
-Open up the `Velocity Build.zip` file and run the executable `.exe` to play.
+Open up the `FPS Build.zip` file and run the executable `.exe` to play.
